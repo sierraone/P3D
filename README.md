@@ -6,4 +6,10 @@
  - **A/C works, kernelbase.dll CTD x1***
 - [x] FTX Central Installed 9/15/2017 5:58 AM
 - [x] FTX Libraries Installed 9/15/2017 6:05 AM 
+- [x] PTA for P3Dv4 Installed 9/15/2017 6:10 AM
+ - Using Matt Davies 1.1 PTA preset
+ - **All looks good (FPS/CTDs)**
+ - Rudder controls reset
+ - Joystick remapped
 - [ ] ORBX Global Base Installed 9/15/2017
+- [ ] FSUIPC5 Installed 9/15/2017
