@@ -21,6 +21,7 @@
  - Overclocked 100/300
  - TEXTURE_SIZE_EXP=8 Tweak
 - [x] FlyTampa Toronto Installed 9/15/2017 2:47 PM
+ - [x] LITEX Installed 2:51 PM
 - [ ] REX Worldwide Airports Installed 9/15/2017
 - [ ] FSUIPC5 Installed 9/15/2017
 - [ ] ORBX Trees Installed 9/15/2017
