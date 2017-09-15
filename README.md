@@ -20,9 +20,11 @@
  - Scaled back settings
  - Overclocked 100/300
  - TEXTURE_SIZE_EXP=8 Tweak
+- [x] FlyTampa Toronto Installed 9/15/2017 2:47 PM
 - [ ] REX Worldwide Airports Installed 9/15/2017
 - [ ] FSUIPC5 Installed 9/15/2017
 - [ ] ORBX Trees Installed 9/15/2017
 - [ ] ORBX Vectors Installed 9/15/2017
 - [ ] GSX Installed 9/15/2017 (Experimental)
 - [ ] Remove ORBX Wave animations
+
