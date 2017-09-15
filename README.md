@@ -19,3 +19,4 @@
 - [ ] ORBX NA OpenLC Installed 9/15/2017
 - [ ] ORBX Trees Installed 9/15/2017
 - [ ] ORBX Vectors Installed 9/15/2017
+- [ ] GSX Installed 9/15/2017 (Experimental)
