@@ -22,10 +22,14 @@
  - TEXTURE_SIZE_EXP=8 Tweak
 - [x] FlyTampa Toronto Installed 9/15/2017 2:47 PM
  - [x] LITEX Installed 2:51 PM
-- [ ] REX Worldwide Airports Installed 9/15/2017
-- [ ] FSUIPC5 Installed 9/15/2017
+- [x] REX Worldwide Airports Installed 9/15/2017 3:01 PM
+ - **Looking good! Still blurry but whatever**
+- [x] FSUIPC5 Installed 9/15/2017 3:03 PM
+ - Axis calibrated, autosave enabled
+- [x] ActiveSky Installed 9/15/2017 3:22 PM
 - [ ] ORBX Trees Installed 9/15/2017
 - [ ] ORBX Vectors Installed 9/15/2017
 - [ ] GSX Installed 9/15/2017 (Experimental)
-- [ ] Remove ORBX Wave animations
+- [ ] SPAD Next Installed 9/15/2017
+
 
