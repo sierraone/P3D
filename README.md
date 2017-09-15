@@ -13,10 +13,10 @@
  - Joystick remapped
 - [x] ORBX Global Base Installed 9/15/2017 6:22 AM
  - **Upped graphics per Global Base, may need to reduce later**
-- [ ] REX Texture Direct 4 Installed 9/15/2017
+- [x] REX Texture Direct 4 Installed 9/15/2017 1:54 PM
+- [x] ORBX NA OpenLC Installed 9/15/2017 1:57 PM 
 - [ ] REX Worldwide Airports Installed 9/15/2017
 - [ ] FSUIPC5 Installed 9/15/2017
-- [ ] ORBX NA OpenLC Installed 9/15/2017
 - [ ] ORBX Trees Installed 9/15/2017
 - [ ] ORBX Vectors Installed 9/15/2017
 - [ ] GSX Installed 9/15/2017 (Experimental)
