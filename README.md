@@ -17,6 +17,8 @@
  - **Textures working but ground is blurry**
 - [x] ORBX NA OpenLC Installed 9/15/2017 1:57 PM 
  - **Better results in CYTZ**
+ - Scaled back settings
+ - Overclocked 100/300
  - TEXTURE_SIZE_EXP=8 Tweak
 - [ ] REX Worldwide Airports Installed 9/15/2017
 - [ ] FSUIPC5 Installed 9/15/2017
